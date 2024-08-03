@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container{
+    background-image: url('https://media.licdn.com/dms/image/D5612AQFHi6SSo5GLwQ/article-cover_image-shrink_720_1280/0/1682592695050?e=2147483647&v=beta&t=eOOXVC5o0ui_8Aq22oy_n3c1M6eQuylkM7DJhuZg5so');
+    height: 500px;
+    width: 800px;
+    background-size: cover;
+    padding-top: 400px;
+    margin-top: 100px;
+
+}
+.row{
+    background-color: orange;
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: end;
+    padding-bottom: 10px;
+    border-radius: 12px;
+
+}
+.button{
+    width: 110px;
+    border-radius: 8px;
+}
